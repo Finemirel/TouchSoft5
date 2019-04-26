@@ -1,0 +1,162 @@
+
+2019-04-19 21:40:20 INFO  [main]: Server start
+2019-04-19 21:40:28 INFO  [main]: Server start
+2019-04-19 21:41:25 INFO  [main]: Server create
+2019-04-19 21:41:25 INFO  [main]: Server start
+2019-04-19 22:42:11 INFO  [main]: Server create
+2019-04-19 22:42:11 INFO  [main]: Server start
+2019-04-19 22:42:20 INFO  [Thread-0]: in connected user
+2019-04-19 22:42:35 INFO  [Thread-0]: Yello
+2019-04-19 22:42:35 INFO  [Thread-0]: in building connection
+2019-04-19 22:42:35 INFO  [Thread-0]: Send msg to user
+2019-04-19 22:43:04 INFO  [Thread-0]: /register client Artem
+2019-04-19 22:43:04 INFO  [Thread-0]: in building connection
+2019-04-19 22:43:04 INFO  [Thread-0]: Register client
+2019-04-19 22:43:04 INFO  [Thread-0]: In connection client
+2019-04-19 22:50:36 INFO  [main]: Server create
+2019-04-19 22:50:36 INFO  [main]: Server start
+2019-04-19 22:50:48 INFO  [Thread-0]: in connected user
+2019-04-19 22:57:06 INFO  [main]: Server create
+2019-04-19 22:57:06 INFO  [main]: Server start
+2019-04-19 23:02:30 INFO  [main]: Server create
+2019-04-19 23:02:30 INFO  [main]: Server start
+2019-04-19 23:16:31 INFO  [main]: Server create
+2019-04-19 23:16:31 INFO  [main]: Server start
+2019-04-19 23:18:57 INFO  [main]: Server create
+2019-04-19 23:18:57 INFO  [main]: Server start
+2019-04-19 23:19:02 INFO  [Thread-0]: in connected user
+2019-04-19 23:21:27 INFO  [main]: Server create
+2019-04-19 23:21:27 INFO  [main]: Server start
+2019-04-19 23:21:35 INFO  [Thread-0]: in connected user
+2019-04-19 23:21:47 INFO  [Thread-0]: Hello
+2019-04-19 23:21:47 INFO  [Thread-0]: in building connection
+2019-04-19 23:21:47 INFO  [Thread-0]: Send msg to user
+2019-04-19 23:30:45 INFO  [main]: Server create
+2019-04-19 23:30:45 INFO  [main]: Server start
+2019-04-19 23:30:54 INFO  [Thread-0]: in connected user
+2019-04-19 23:31:07 INFO  [Thread-0]: Hello
+2019-04-19 23:31:07 INFO  [Thread-0]: in building connection
+2019-04-19 23:31:07 INFO  [Thread-0]: Send msg to user
+2019-04-19 23:31:23 INFO  [Thread-0]: /register client Atrem
+2019-04-19 23:31:23 INFO  [Thread-0]: in building connection
+2019-04-19 23:31:23 INFO  [Thread-0]: Register client
+2019-04-19 23:31:23 INFO  [Thread-0]: In connection client
+2019-04-19 23:31:29 INFO  [Thread-1]: in connected user
+2019-04-19 23:31:44 INFO  [Thread-1]: /register agent Dima
+2019-04-19 23:31:44 INFO  [Thread-1]: in building connection
+2019-04-19 23:31:44 INFO  [Thread-1]: Register agent
+2019-04-19 23:31:44 INFO  [Thread-1]: In connection agent
+2019-04-19 23:31:52 INFO  [Thread-0]: Agent search
+2019-04-19 23:31:52 INFO  [Thread-1]: Client call
+2019-04-19 23:31:52 INFO  [Thread-0]: in CMessageDispetcher
+2019-04-19 23:31:59 INFO  [Thread-1]: in AMessageDispetcher
+2019-04-19 23:32:17 INFO  [Thread-0]: in CMessageDispetcher
+2019-04-19 23:32:25 INFO  [Thread-0]: in CMessageDispetcher
+2019-04-19 23:32:44 INFO  [Thread-0]: in CMessageDispetcher
+2019-04-19 23:32:44 INFO  [Thread-0]: Client leave
+2019-04-19 23:32:59 INFO  [Thread-0]: Agent search
+2019-04-19 23:32:59 INFO  [Thread-1]: Client call
+2019-04-19 23:32:59 INFO  [Thread-0]: in CMessageDispetcher
+2019-04-19 23:32:59 INFO  [Thread-1]: in AMessageDispetcher
+2019-04-19 23:32:59 INFO  [Thread-1]: Agent exit
+2019-04-19 23:33:09 INFO  [Thread-2]: in connected user
+2019-04-19 23:33:28 INFO  [Thread-2]: /register agent Sasha
+2019-04-19 23:33:28 INFO  [Thread-2]: in building connection
+2019-04-19 23:33:28 INFO  [Thread-2]: Register agent
+2019-04-19 23:33:28 INFO  [Thread-2]: In connection agent
+2019-04-19 23:33:49 INFO  [Thread-0]: Agent search
+2019-04-19 23:33:49 INFO  [Thread-0]: in CMessageDispetcher
+2019-04-19 23:33:49 INFO  [Thread-2]: Client call
+2019-04-19 23:33:49 INFO  [Thread-2]: in AMessageDispetcher
+2019-04-19 23:34:19 INFO  [Thread-2]: in AMessageDispetcher
+2019-04-19 23:34:19 INFO  [Thread-2]: Agent exit
+2019-04-19 23:34:31 INFO  [Thread-3]: in connected user
+2019-04-19 23:34:51 INFO  [Thread-3]: /register client Artem
+2019-04-19 23:34:51 INFO  [Thread-3]: in building connection
+2019-04-19 23:34:51 INFO  [Thread-3]: Register client
+2019-04-19 23:34:51 INFO  [Thread-3]: In connection client
+2019-04-19 23:35:04 INFO  [Thread-4]: in connected user
+2019-04-19 23:35:19 INFO  [Thread-4]: /register agent Dima
+2019-04-19 23:35:19 INFO  [Thread-4]: in building connection
+2019-04-19 23:35:19 INFO  [Thread-4]: Register agent
+2019-04-19 23:35:19 INFO  [Thread-4]: In connection agent
+2019-04-19 23:35:19 INFO  [Thread-0]: Agent search
+2019-04-19 23:35:19 INFO  [Thread-0]: in CMessageDispetcher
+2019-04-19 23:35:19 INFO  [Thread-0]: Client exit
+2019-04-19 23:35:19 INFO  [Thread-3]: Agent search
+2019-04-19 23:35:19 INFO  [Thread-4]: Client call
+2019-04-19 23:35:19 INFO  [Thread-3]: in CMessageDispetcher
+2019-04-19 23:35:32 INFO  [Thread-3]: in CMessageDispetcher
+2019-04-19 23:35:32 INFO  [Thread-3]: Client exit
+2019-04-20 10:50:56 INFO  [main]: Server create
+2019-04-20 10:50:56 INFO  [main]: Server start
+2019-04-20 10:51:06 INFO  [Thread-0]: in connected user
+2019-04-20 14:48:19 INFO  [main]: Server create
+2019-04-20 14:48:19 INFO  [main]: Server start
+2019-04-21 18:11:31 INFO  [main]: Server create
+2019-04-21 18:11:31 INFO  [main]: Server start
+2019-04-26 19:14:29 INFO  [main]: Server create
+2019-04-26 19:14:29 INFO  [main]: Server start
+2019-04-26 19:14:34 INFO  [Thread-0]: in connected user
+2019-04-26 19:14:48 INFO  [Thread-0]: Hello
+2019-04-26 19:14:48 INFO  [Thread-0]: in building connection
+2019-04-26 19:14:48 INFO  [Thread-0]: Send msg to user
+2019-04-26 19:14:57 INFO  [Thread-1]: in connected user
+2019-04-26 19:15:05 INFO  [Thread-2]: in connected user
+2019-04-26 19:15:11 INFO  [Thread-3]: in connected user
+2019-04-26 19:15:27 INFO  [Thread-4]: in connected user
+2019-04-26 19:15:38 INFO  [Thread-5]: in connected user
+2019-04-26 19:16:06 INFO  [Thread-4]: /register client Artem
+2019-04-26 19:16:06 INFO  [Thread-4]: in building connection
+2019-04-26 19:16:06 INFO  [Thread-4]: Register client
+2019-04-26 19:16:07 INFO  [Thread-4]: In connection client
+2019-04-26 19:16:25 INFO  [Thread-1]: /register client Artem
+2019-04-26 19:16:25 INFO  [Thread-1]: in building connection
+2019-04-26 19:16:25 INFO  [Thread-1]: Register client
+2019-04-26 19:16:25 INFO  [Thread-1]: In connection client
+2019-04-26 19:16:49 INFO  [Thread-0]: /register client Dima
+2019-04-26 19:16:49 INFO  [Thread-0]: in building connection
+2019-04-26 19:16:49 INFO  [Thread-0]: Register client
+2019-04-26 19:16:49 INFO  [Thread-0]: In connection client
+2019-04-26 19:17:07 INFO  [Thread-5]: /register agent Leha
+2019-04-26 19:17:07 INFO  [Thread-5]: in building connection
+2019-04-26 19:17:07 INFO  [Thread-5]: Register agent
+2019-04-26 19:17:07 INFO  [Thread-5]: In connection agent
+2019-04-26 19:17:32 INFO  [Thread-3]: /register agent Tolic
+2019-04-26 19:17:32 INFO  [Thread-3]: in building connection
+2019-04-26 19:17:32 INFO  [Thread-3]: Register agent
+2019-04-26 19:17:32 INFO  [Thread-3]: In connection agent
+2019-04-26 19:17:55 INFO  [Thread-2]: /register agent Sasha
+2019-04-26 19:17:56 INFO  [Thread-2]: in building connection
+2019-04-26 19:17:56 INFO  [Thread-2]: Register agent
+2019-04-26 19:17:56 INFO  [Thread-2]: In connection agent
+2019-04-26 19:18:03 INFO  [Thread-4]: Agent search
+2019-04-26 19:18:03 INFO  [Thread-4]: in CMessageDispetcher
+2019-04-26 19:18:03 INFO  [Thread-5]: Client call
+2019-04-26 19:18:18 INFO  [Thread-1]: Agent search
+2019-04-26 19:18:18 INFO  [Thread-3]: Client call
+2019-04-26 19:18:18 INFO  [Thread-1]: in CMessageDispetcher
+2019-04-26 19:18:36 INFO  [Thread-5]: in AMessageDispetcher
+2019-04-26 19:18:46 INFO  [Thread-4]: in CMessageDispetcher
+2019-04-26 19:18:47 INFO  [Thread-4]: Client leave
+2019-04-26 19:18:57 INFO  [Thread-0]: Agent search
+2019-04-26 19:18:57 INFO  [Thread-0]: in CMessageDispetcher
+2019-04-26 19:18:57 INFO  [Thread-5]: Client call
+2019-04-26 19:19:10 INFO  [Thread-4]: Agent search
+2019-04-26 19:19:10 INFO  [Thread-4]: in CMessageDispetcher
+2019-04-26 19:19:10 INFO  [Thread-2]: Client call
+2019-04-26 19:19:28 INFO  [Thread-5]: in AMessageDispetcher
+2019-04-26 19:19:28 INFO  [Thread-5]: Agent exit
+2019-04-26 19:19:55 INFO  [Thread-4]: in CMessageDispetcher
+2019-04-26 19:19:55 INFO  [Thread-4]: Client leave
+2019-04-26 19:19:55 INFO  [Thread-0]: Agent search
+2019-04-26 19:19:55 INFO  [Thread-2]: Client call
+2019-04-26 19:19:55 INFO  [Thread-0]: in CMessageDispetcher
+2019-04-26 19:20:13 INFO  [Thread-1]: in CMessageDispetcher
+2019-04-26 19:20:13 INFO  [Thread-1]: Client exit
+2019-04-26 19:20:13 INFO  [Thread-4]: Agent search
+2019-04-26 19:20:13 INFO  [Thread-4]: in CMessageDispetcher
+2019-04-26 19:20:13 INFO  [Thread-3]: Client call
+2019-04-26 19:20:13 INFO  [Thread-4]: Client exit
+2019-04-26 19:20:23 INFO  [Thread-0]: in CMessageDispetcher
+2019-04-26 19:20:23 INFO  [Thread-0]: Client exit

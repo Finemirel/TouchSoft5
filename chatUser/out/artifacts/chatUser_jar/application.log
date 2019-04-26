@@ -1,0 +1,47 @@
+2019-04-19 23:30:08 INFO  [main]: You connected
+2019-04-19 23:30:09 INFO  [main]: You can receive messages
+2019-04-19 23:30:09 INFO  [Thread-0]: You can send messages
+2019-04-19 23:30:13 INFO  [main]: You connected
+2019-04-19 23:30:14 INFO  [Thread-0]: You can send messages
+2019-04-19 23:30:14 INFO  [main]: You can receive messages
+2019-04-19 23:30:54 INFO  [main]: You connected
+2019-04-19 23:30:54 INFO  [Thread-0]: You can send messages
+2019-04-19 23:30:54 INFO  [main]: You can receive messages
+2019-04-19 23:31:29 INFO  [main]: You connected
+2019-04-19 23:31:29 INFO  [main]: You can receive messages
+2019-04-19 23:31:29 INFO  [Thread-0]: You can send messages
+2019-04-19 23:33:09 INFO  [main]: You connected
+2019-04-19 23:33:09 INFO  [main]: You can receive messages
+2019-04-19 23:33:09 INFO  [Thread-0]: You can send messages
+2019-04-19 23:34:31 INFO  [main]: You connected
+2019-04-19 23:34:31 INFO  [main]: You can receive messages
+2019-04-19 23:34:31 INFO  [Thread-0]: You can send messages
+2019-04-19 23:35:04 INFO  [main]: You connected
+2019-04-19 23:35:04 INFO  [main]: You can receive messages
+2019-04-19 23:35:04 INFO  [Thread-0]: You can send messages
+2019-04-20 10:51:06 INFO  [main]: You connected
+2019-04-20 10:51:06 INFO  [Thread-0]: You can send messages
+2019-04-20 10:51:06 INFO  [main]: You can receive messages
+2019-04-20 10:51:58 INFO  [main]: You connected
+2019-04-20 10:51:59 INFO  [main]: No connected
+2019-04-20 10:51:59 ERROR [main]: Error connected [Ljava.lang.StackTraceElement;@12edcd21
+2019-04-20 10:51:59 INFO  [Thread-0]: You can send messages
+2019-04-20 10:51:59 INFO  [main]: You can receive messages
+2019-04-26 19:14:34 INFO  [main]: You connected
+2019-04-26 19:14:34 INFO  [Thread-0]: You can send messages
+2019-04-26 19:14:34 INFO  [main]: You can receive messages
+2019-04-26 19:14:57 INFO  [main]: You connected
+2019-04-26 19:14:57 INFO  [main]: You can receive messages
+2019-04-26 19:14:57 INFO  [Thread-0]: You can send messages
+2019-04-26 19:15:05 INFO  [main]: You connected
+2019-04-26 19:15:05 INFO  [main]: You can receive messages
+2019-04-26 19:15:05 INFO  [Thread-0]: You can send messages
+2019-04-26 19:15:10 INFO  [main]: You connected
+2019-04-26 19:15:11 INFO  [main]: You can receive messages
+2019-04-26 19:15:11 INFO  [Thread-0]: You can send messages
+2019-04-26 19:15:27 INFO  [main]: You connected
+2019-04-26 19:15:27 INFO  [main]: You can receive messages
+2019-04-26 19:15:27 INFO  [Thread-0]: You can send messages
+2019-04-26 19:15:38 INFO  [main]: You connected
+2019-04-26 19:15:38 INFO  [main]: You can receive messages
+2019-04-26 19:15:38 INFO  [Thread-0]: You can send messages
