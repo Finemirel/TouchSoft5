@@ -1,0 +1,60 @@
+2019-04-28 01:59:46 INFO  [http-bio-8080-exec-4]: Server create
+2019-04-28 01:59:46 INFO  [http-bio-8080-exec-4]: Server start
+2019-04-28 02:22:36 INFO  [http-bio-8080-exec-4]: In AndPointServlet onOpen
+2019-04-28 02:22:36 INFO  [http-bio-8080-exec-4]: Server create
+2019-04-28 02:22:36 INFO  [http-bio-8080-exec-4]: Server start
+2019-04-28 02:27:11 INFO  [http-bio-8080-exec-8]: In AndPointServlet onOpen
+2019-04-28 02:27:11 INFO  [http-bio-8080-exec-8]: Server start
+2019-04-28 02:28:08 INFO  [http-bio-8080-exec-3]: In AndPointServlet onOpen
+2019-04-28 02:28:08 INFO  [http-bio-8080-exec-3]: Server start
+2019-04-28 02:51:49 INFO  [http-bio-8080-exec-9]: In AndPointServlet onOpen
+2019-04-28 02:51:49 INFO  [http-bio-8080-exec-9]: Server start
+2019-04-28 03:15:25 INFO  [http-bio-8080-exec-7]: In AndPointServlet onOpen
+2019-04-28 03:15:25 INFO  [http-bio-8080-exec-7]: Server start
+2019-04-28 03:18:12 INFO  [http-bio-8080-exec-4]: In AndPointServlet onOpen
+2019-04-28 03:18:12 INFO  [http-bio-8080-exec-4]: Server create
+2019-04-28 03:18:12 INFO  [http-bio-8080-exec-4]: Server start
+2019-04-28 03:19:30 INFO  [Thread-5]: in connected user
+2019-04-28 03:19:42 INFO  [Thread-6]: in connected user
+2019-04-28 03:20:05 INFO  [Thread-5]: /register client Artem
+2019-04-28 03:20:05 INFO  [Thread-5]: in building connection
+2019-04-28 03:20:05 INFO  [Thread-5]: Register client
+2019-04-28 03:20:05 INFO  [Thread-5]: In connection client
+2019-04-28 03:20:24 INFO  [Thread-6]: /register agent Vasia
+2019-04-28 03:20:24 INFO  [Thread-6]: in building connection
+2019-04-28 03:20:24 INFO  [Thread-6]: Register agent
+2019-04-28 03:20:25 INFO  [Thread-6]: In connection agent
+2019-04-28 03:20:39 INFO  [Thread-5]: Agent search
+2019-04-28 03:20:39 INFO  [Thread-6]: Client call
+2019-04-28 03:20:39 INFO  [Thread-5]: in CMessageDispetcher
+2019-04-28 03:20:53 INFO  [Thread-6]: in AMessageDispetcher
+2019-04-28 03:21:12 INFO  [Thread-5]: in CMessageDispetcher
+2019-04-28 03:21:12 INFO  [Thread-5]: Client exit
+2019-04-28 03:24:32 INFO  [http-bio-8080-exec-8]: In AndPointServlet onOpen
+2019-04-28 03:24:32 INFO  [http-bio-8080-exec-8]: Server start
+2019-04-28 03:24:32 INFO  [http-bio-8080-exec-8]: In AndPointServlet onError
+2019-04-28 03:24:32 INFO  [http-bio-8080-exec-8]: In AndPointServlet onClose
+2019-04-28 03:25:44 INFO  [http-bio-8080-exec-1]: In AndPointServlet onOpen
+2019-04-28 03:25:44 INFO  [http-bio-8080-exec-1]: Server start
+2019-04-28 03:25:44 INFO  [http-bio-8080-exec-1]: In AndPointServlet onError
+2019-04-28 03:25:44 INFO  [http-bio-8080-exec-1]: In AndPointServlet onClose
+2019-04-28 03:26:56 INFO  [http-bio-8080-exec-8]: In AndPointServlet onOpen
+2019-04-28 03:26:56 INFO  [http-bio-8080-exec-8]: Server start
+2019-04-28 03:26:56 INFO  [http-bio-8080-exec-8]: In AndPointServlet onError
+2019-04-28 03:26:56 INFO  [http-bio-8080-exec-8]: In AndPointServlet onClose
+2019-04-28 03:27:16 INFO  [http-bio-8080-exec-9]: In AndPointServlet onOpen
+2019-04-28 03:27:16 INFO  [http-bio-8080-exec-9]: Server start
+2019-04-28 03:27:16 INFO  [http-bio-8080-exec-9]: In AndPointServlet onError
+2019-04-28 03:27:16 INFO  [http-bio-8080-exec-9]: In AndPointServlet onClose
+2019-04-28 03:30:35 INFO  [http-bio-8080-exec-7]: In AndPointServlet onOpen
+2019-04-28 03:30:35 INFO  [http-bio-8080-exec-7]: Server start
+2019-04-28 03:30:35 INFO  [http-bio-8080-exec-7]: In AndPointServlet onError
+2019-04-28 03:30:35 INFO  [http-bio-8080-exec-7]: In AndPointServlet onClose
+2019-04-28 03:33:23 INFO  [http-bio-8080-exec-9]: In AndPointServlet onOpen
+2019-04-28 03:33:23 INFO  [http-bio-8080-exec-9]: Server start
+2019-04-28 03:33:23 INFO  [http-bio-8080-exec-9]: In AndPointServlet onError
+2019-04-28 03:33:23 INFO  [http-bio-8080-exec-9]: In AndPointServlet onClose
+2019-04-28 03:36:05 INFO  [http-bio-8080-exec-10]: In AndPointServlet onOpen
+2019-04-28 03:36:05 INFO  [http-bio-8080-exec-10]: Server start
+2019-04-28 03:36:05 INFO  [http-bio-8080-exec-10]: In AndPointServlet onError
+2019-04-28 03:36:05 INFO  [http-bio-8080-exec-10]: In AndPointServlet onClose

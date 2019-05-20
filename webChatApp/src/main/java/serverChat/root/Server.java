@@ -1,7 +1,7 @@
 package serverChat.root;
 
 import org.apache.log4j.Logger;
-import register.ConnectedUser;
+import serverChat.register.ConnectedUser;
 
 import java.io.IOException;
 import java.net.ServerSocket;
